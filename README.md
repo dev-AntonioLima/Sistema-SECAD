@@ -4,5 +4,5 @@ Sistema de cadastro desenvolvido durante o projeto integrador "Sistema Corporati
 Imagens do projeto: 
 
 <p align="center">
-<img src="captura.png>
+<img src="DeepinScreenshot_20200530160834.png">
 </p>
